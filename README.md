@@ -46,7 +46,7 @@ Comparison of circuit fidelity (left), training cost (right) and inference cost 
 
 ![Figure 4](Figures/Fig4.png)
 
-Hardware statistics for the QMware HQC4020 simulator. (a) The optimal number of threads for simulating an $n$-qubit quantum circuit. Faster runtimes are indicated with a paler shade, demonstrating how the optimal number of threads varies for increasing circuit size. (b) a plot of the optimum thread count against number of qubits (c) a plot of total CPU and RAM utilization over time during the execution of a 40 qubit QNN. (d) memory required to store the state vector for an increasing number of qubits.
+Hardware statistics for the QMware HQC4020 simulator. (a) The optimal number of threads for simulating an $n$-qubit quantum circuit. Faster runtimes are indicated with a paler shade, demonstrating how the optimal number of threads varies for increasing circuit size. (b) A plot of the optimum thread count against number of qubits (c) A plot of total CPU and RAM utilization over time during the execution of a 40 qubit QNN. (d) Memory required to store the state vector for an increasing number of qubits.
 
 ## Citing this work
 
@@ -55,7 +55,7 @@ If you use the code or data in this package, please cite:
 ```bibtex
 @article{kordzanganeh2022benchmarking,
   title={Benchmarking simulated and physical quantum processing units using quantum and hybrid algorithms},
-  author={Kordzanganeh, Mohammad and Buchberger, Markus and Povolotskii, Maxim and Fischer, Wilhelm and Kurkin, Andrii and Somogyi, Wilfrid and Sagingalieva, Asel and Pflitsch, Markus and Melnikov, Alexey},
+  author={Kordzanganeh, Mohammad and Buchberger, Markus and Kyriacou, Basil and Povolotskii, Maxim and Fischer, Wilhelm and Kurkin, Andrii and Somogyi, Wilfrid and Sagingalieva, Asel and Pflitsch, Markus and Melnikov, Alexey},
   journal={arXiv preprint arXiv:2211.15631},
   year={2022}
 }```
