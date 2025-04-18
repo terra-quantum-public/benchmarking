@@ -53,9 +53,14 @@ Hardware statistics for the QMware HQC4020 simulator. (a) The optimal number of 
 If you use the code or data in this package, please cite:
 
 ```bibtex
-@article{kordzanganeh2022benchmarking,
-  title={Benchmarking simulated and physical quantum processing units using quantum and hybrid algorithms},
-  author={Kordzanganeh, Mohammad and Buchberger, Markus and Kyriacou, Basil and Povolotskii, Maxim and Fischer, Wilhelm and Kurkin, Andrii and Somogyi, Wilfrid and Sagingalieva, Asel and Pflitsch, Markus and Melnikov, Alexey},
-  journal={arXiv preprint arXiv:2211.15631},
-  year={2022}
-}```
+@article{kordzanganeh2023benchmarking,
+author = {Kordzanganeh, Mohammad and Buchberger, Markus and Kyriacou, Basil and Povolotskii, Maxim and Fischer, Wilhelm and Kurkin, Andrii and Somogyi, Wilfrid and Sagingalieva, Asel and Pflitsch, Markus and Melnikov, Alexey},
+title = {Benchmarking Simulated and Physical Quantum Processing Units Using Quantum and Hybrid Algorithms},
+journal = {Advanced Quantum Technologies},
+volume = {6},
+number = {8},
+pages = {2300043},
+year = {2023},
+doi = {10.1002/qute.202300043}
+}
+```
